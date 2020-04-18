@@ -1,6 +1,7 @@
 
 p {
   background-color: wheat;
+  display: inline;
 }
 
 span {
