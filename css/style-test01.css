@@ -1,14 +1,15 @@
 
 p {
-  background-color: wheat;
-  display: inline-inline-block;
-  width: 100px;
+  background-color: lightpink;
+  display: inline-block;
+  width: 150px;
 }
 
 span {
-  background-color: orchid;
+  background-color: limegreen;
 }
 
 .second-p {
   visibility: hidden;
+  background-color: magenta;
 }
