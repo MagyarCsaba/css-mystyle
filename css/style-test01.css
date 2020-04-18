@@ -1,7 +1,8 @@
 
 p {
   background-color: wheat;
-  display: inline;
+  display: inline-inline-block;
+  width: 100px;
 }
 
 span {
