@@ -13,3 +13,13 @@ span {
   visibility: hidden;
   background-color: magenta;
 }
+
+.div-egy {
+  height: 100px;
+  background-color: chocolate;
+}
+
+.span-egy {
+  background-color: red;
+  font-size: 2em;
+}
