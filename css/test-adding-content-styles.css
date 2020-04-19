@@ -18,6 +18,11 @@ h1 {
   margin-bottom: 0px;
 }
 
+#profile-img {
+  height: 200px;
+  width: 200px;
+}
+
 
 .top-container {
   background-color: lightcyan;
