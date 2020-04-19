@@ -7,27 +7,45 @@ body {
   height: 100px;
   width: 100px;
   background-color: cornflowerblue;
-  position: absolute;
-  left: 100px;
-  top: 100px;
 }
 
 .div-ketto {
   height: 100px;
   width: 100px;
   background-color: gold;
+  position: relative;
+  left: 100px;
 }
 
 .div-harom {
   height: 100px;
   width: 100px;
   background-color: tomato;
-  position: absolute;
+  position: relative;
   left: 200px;
-  top: 200px;
 }
 
 .div-cont {
   height: 550px;
-  background-color: azure;
+  background-color: aquamarine;
+}
+
+.div-negy {
+  height: 80px;
+  width: 80px;
+  background-color: cornsilk;
+  border: solid 10px brown;
+  position: relative;
+  left: 50px;
+  top: 50px;
+}
+
+.div-ot {
+  height: 60px;
+  width: 60px;
+  background-color: darkorchid;
+  border: solid 20px greenyellow;
+  position: relative;
+  left: 150px;
+  top: 50px;
 }
