@@ -8,7 +8,6 @@ body {
   font-family: 'Merriweather Sans', sans-serif;
 }
 
-
 h1 {
   margin-top: 0;
   font-family: 'Courgette', cursive;
@@ -24,7 +23,6 @@ h3, a {
   color: #11999E;
 }
 
-
 #webdes-par {
   margin-bottom: 0px;
   font-weight: normal;
@@ -35,13 +33,11 @@ h3, a {
   width: 200px;
 }
 
-
 .top-container {
   background-color: lightcyan;
   margin-top: 0;
   padding-top: 50px;
 }
-
 
 .middle-container {
 
@@ -68,4 +64,23 @@ h3, a {
 .mountain {
   display: block;
   margin: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.console-img {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.visual-editing-img {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
 }
